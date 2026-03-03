@@ -1,6 +1,9 @@
 # Machine Learning Project
 # Wine Quality Prediction: A Machine Learning Analysis
 
+## Author
+**Alessandro Macchi** - github.com/alessandro-macchi
+
 ## Overview
 The traditional art of winemaking meets the mathematical precision of data science in this analytical project. At its core, this repository investigates the effectiveness of various machine learning approaches for binary wine quality classification. By analyzing eleven distinct physicochemical properties—ranging from fixed acidity and alcohol content to complex sulfur compounds—this framework attempts to predict whether a given wine will be perceived as low or high quality. 
 
